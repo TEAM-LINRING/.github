@@ -1,4 +1,23 @@
 # LINRING - 너와 나를 잇는 울림, 링링
+![그래픽 이미지](https://github.com/TEAM-LINRING/.github/assets/81795729/005f10d1-e7a8-42d6-92eb-a40c6046e3cc)
+
+---
+
+<a href="https://play.google.com/store/apps/details?id=com.linring">
+    <img alt="Get it on Google Play"
+        height="80"
+        src="https://github.com/TEAM-LINRING/.github/assets/81795729/1b24a3ce-cd0c-40ed-ab23-7454bce1b234" />
+</a> 
+<br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.linring">
+    <img alt="Get it on App Store"
+        height="55"
+        src="https://github.com/TEAM-LINRING/.github/assets/81795729/70daf856-4750-43bd-934d-4b7fffc8f56b" />
+</a>
+
+
+---
 
 ### 프로젝트 레포지토리(Project Repositories)
 
