@@ -10,10 +10,10 @@
 </a> 
 <br/>
 
-<a href="https://play.google.com/store/apps/details?id=com.linring">
+<a href="https://apps.apple.com/kr/app/%EB%84%88%EC%99%80-%EB%82%98%EB%A5%BC-%EC%9E%87%EB%8A%94-%EC%9A%B8%EB%A6%BC-%EB%A7%81%EB%A7%81/id6472584482">
     <img alt="Get it on App Store"
         height="55"
-        src="https://apps.apple.com/kr/app/%EB%84%88%EC%99%80-%EB%82%98%EB%A5%BC-%EC%9E%87%EB%8A%94-%EC%9A%B8%EB%A6%BC-%EB%A7%81%EB%A7%81/id6472584482" />
+        src="https://github.com/TEAM-LINRING/.github/assets/81795729/70daf856-4750-43bd-934d-4b7fffc8f56b" />
 </a>
 
 
